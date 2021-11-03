@@ -16,4 +16,5 @@
 * terraform.rc аналогичный предыдущему но не скрытый и имеющий расширение rc
 
 # Проверка commit git из PyCharm
+## Второй commit из PyChar
  
