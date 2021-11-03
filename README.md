@@ -15,3 +15,4 @@
   >Ignore [CLI](https://en.wikipedia.org/wiki/Command-line_interface) configuration files
 * terraform.rc аналогичный предыдущему но не скрытый и имеющий расширение rc
  
+## new line
