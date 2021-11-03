@@ -14,4 +14,6 @@
 * .terraformrc - скрытый (для отображения в директории как правило используется команда ls с одним из параметром -a) файл с именем .terraformrc 
   >Ignore [CLI](https://en.wikipedia.org/wiki/Command-line_interface) configuration files
 * terraform.rc аналогичный предыдущему но не скрытый и имеющий расширение rc
+
+# Проверка commit git из PyCharm
  
